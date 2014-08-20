@@ -10,7 +10,7 @@
   <style name="CurrentLine" background="#303737" bold="true"/>
   <style name="CurrentLineNumber" foreground="#e5e4e1"/>
   <style name="Occurrences" foreground="#000000" background="#b4b4b4"/>
-  <style name="Occurrences.Unused" foreground="#ff0000"/>
+  <style name="Occurrences.Unused" foreground="#ffaa7f"/>
   <style name="Occurrences.Rename" foreground="#000000" background="#ff6464"/>
   <style name="Number" foreground="#ae81ff"/>
   <style name="String" foreground="#e6db74"/>
