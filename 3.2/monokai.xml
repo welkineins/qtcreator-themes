@@ -21,6 +21,7 @@
   <style name="VirtualMethod" foreground="#e5e4e1" italic="true"/>
   <style name="Function" foreground="#e5e4e1"/>
   <style name="Keyword" foreground="#87cde6"/>
+  <style name="PrimitiveType" foreground="#86cce5"/>
   <style name="Operator" foreground="#e6e5e2"/>
   <style name="Preprocessor" foreground="#cc8c5b" bold="true"/>
   <style name="Label" foreground="#e5da74"/>
