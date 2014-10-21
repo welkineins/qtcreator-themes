@@ -1,5 +1,5 @@
-Dusk, Monokai, Twilight Qt Creator themes
-=========================================
+Dusk, Monokai, Twilight Qt Creator theme
+========================================
 
 Dusk
 ----
