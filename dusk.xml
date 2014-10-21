@@ -4,9 +4,9 @@
   <style name="Link" foreground="#3572c6" bold="true" italic="true"/>
   <style name="Selection" foreground="#ffffff" background="#384257"/>
   <style name="LineNumber" foreground="#44555a"/>
-  <style name="SearchResult" foreground="#000000" background="#94caef"/>
-  <style name="SearchScope" foreground="#000000" background="#e2efff"/>
-  <style name="Parentheses" foreground="#000000" background="#94caef"/>
+  <style name="SearchResult" foreground="#000000" background="#88a1d3"/>
+  <style name="SearchScope" foreground="#000000" background="#88a1d3"/>
+  <style name="Parentheses" foreground="#000000" background="#b4c7eb"/>
   <style name="CurrentLine" background="#384257" bold="true"/>
   <style name="CurrentLineNumber" foreground="#fcfafd"/>
   <style name="Occurrences" foreground="#000000" background="#b4b4b4"/>
@@ -21,6 +21,7 @@
   <style name="VirtualMethod" foreground="#fcfafd" italic="true"/>
   <style name="Function" foreground="#fbf9fc"/>
   <style name="Keyword" foreground="#c13197" bold="true"/>
+  <style name="PrimitiveType" foreground="#c03196" bold="true"/>
   <style name="Operator" foreground="#fcfafd"/>
   <style name="Preprocessor" foreground="#cd8d5b" bold="true"/>
   <style name="Label" foreground="#df444c" bold="true"/>

@@ -1,19 +1,30 @@
-Dusk and Monokai themes for Qt Creator
-======================================
+Dusk, Monokai and Twilight themes for Qt Creator
+================================================
 
 Dusk
 ----
-![enter image description here][1]
+![Dusk][1]
 
 Monokai
 -------
-![enter image description here][2]
+![Monokai][2]
 
-Bitstream Vera Sans Mono font with the size of 12 and 90% zoom was used for these screenshots.
+Twilight
+--------
+![Twilight][3]
+
+Bitstream Vera Sans Mono font with size of 12 and 90% zoom was used for these screenshots.
 
 Install
 --------
+
 Place `.xml` files into `share/qtcreator/styles` or `~/.config/QtProject/qtcreator/styles/` folder.
 
-  [1]: http://i.imgur.com/BgHHN1R.png
-  [2]: http://i.imgur.com/pxNeW44.png
+Compatibility
+-------------
+
+For Qt Creator 3.0 and below, remove line which starts with `<style name="PrimitiveType"` in `.xml` files.
+
+  [1]: http://i.imgur.com/PwR9zVv.png
+  [2]: http://i.imgur.com/4AEe76E.png
+  [3]: http://i.imgur.com/1anjLuV.png
