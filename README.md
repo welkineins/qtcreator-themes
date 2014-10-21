@@ -1,5 +1,5 @@
-Dusk, Monokai and Twilight themes for Qt Creator
-================================================
+Dusk, Monokai, Twilight Qt Creator themes
+=========================================
 
 Dusk
 ----
@@ -23,8 +23,8 @@ Place `.xml` files into `share/qtcreator/styles` or `~/.config/QtProject/qtcreat
 Compatibility
 -------------
 
-For Qt Creator 3.0 and below, remove line which starts with `<style name="PrimitiveType"` in `.xml` files.
+For Qt Creator 3.0 and below, remove line which starts with `<style name="PrimitiveType"` in `.xml`s.
 
-  [1]: http://i.imgur.com/PwR9zVv.png
-  [2]: http://i.imgur.com/4AEe76E.png
-  [3]: http://i.imgur.com/1anjLuV.png
+  [1]: http://i.imgur.com/PwR9zVv.png?1
+  [2]: http://i.imgur.com/4AEe76E.png?1
+  [3]: http://i.imgur.com/1anjLuV.png?1
