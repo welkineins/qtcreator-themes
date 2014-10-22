@@ -23,7 +23,7 @@ Place `.xml` files into `share/qtcreator/styles` or `~/.config/QtProject/qtcreat
 Compatibility
 -------------
 
-For Qt Creator 3.0 and below, remove line which starts with `<style name="PrimitiveType"` in `.xml`s.
+For Qt Creator 3.0 and below, remove line which starts with `<style name="PrimitiveType"` in `.xml`.
 
   [1]: http://i.imgur.com/PwR9zVv.png?1
   [2]: http://i.imgur.com/4AEe76E.png?1
