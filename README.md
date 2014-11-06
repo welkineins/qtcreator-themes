@@ -1,6 +1,3 @@
-Dusk, Monokai, Twilight Qt Creator theme
-========================================
-
 Dusk
 ----
 ![Dusk][1]
