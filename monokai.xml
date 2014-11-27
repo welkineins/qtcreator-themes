@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <style-scheme version="1.0" name="Monokai">
-  <style name="Text" foreground="#e6e5e2" background="#1a1e1e"/>
+  <style name="Text" foreground="#f8f8f2" background="#1b1d1e"/>
   <style name="Link" foreground="#88cee7" italic="true"/>
   <style name="Selection" foreground="#e5e4e1" background="#303737"/>
   <style name="LineNumber" foreground="#616161"/>
@@ -14,14 +14,14 @@
   <style name="Occurrences.Rename" foreground="#000000" background="#ff6464"/>
   <style name="Number" foreground="#ae81ff"/>
   <style name="String" foreground="#e6db74"/>
-  <style name="Type" foreground="#f82670"/>
+  <style name="Type" foreground="#f92672"/>
   <style name="Local" foreground="#87cde6"/>
   <style name="Field" foreground="#abdc49"/>
-  <style name="Static" foreground="#f82670"/>
+  <style name="Static" foreground="#f92672"/>
   <style name="VirtualMethod" foreground="#e5e4e1" italic="true"/>
   <style name="Function" foreground="#e5e4e1"/>
   <style name="Keyword" foreground="#f82670"/>
-  <style name="PrimitiveType" foreground="#f82670"/>
+  <style name="PrimitiveType" foreground="#f92672"/>
   <style name="Operator" foreground="#e6e5e2"/>
   <style name="Preprocessor" foreground="#cc8c5b" bold="true"/>
   <style name="Label" foreground="#e5da74"/>

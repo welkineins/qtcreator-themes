@@ -22,6 +22,6 @@ Compatibility
 
 For Qt Creator 3.0 and below, remove line which starts with `<style name="PrimitiveType"` in `.xml`.
 
-  [1]: http://i.imgur.com/PwR9zVv.png?1
-  [2]: http://i.imgur.com/4AEe76E.png?1
-  [3]: http://i.imgur.com/1anjLuV.png?1
+  [1]: http://i.imgur.com/xbQveHw.png
+  [2]: http://i.imgur.com/YIhG7mV.png
+  [3]: http://i.imgur.com/XT2Jlza.png
