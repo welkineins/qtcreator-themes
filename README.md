@@ -10,7 +10,7 @@ Twilight
 --------
 ![Twilight][3]
 
-Bitstream Vera Sans Mono font with size of 12 and 90% zoom was used for these screenshots.
+DejaVu Sans Mono font with size 12 was used for these screenshots.
 
 Install
 --------
