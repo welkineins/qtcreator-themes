@@ -1,3 +1,8 @@
+QtCreator Themes
+----
+
+This project was forked form [procedural/qtcreator-themes](procedural/qtcreator-themes) but the repo seems deleted.
+
 Dusk
 ----
 ![Dusk][1]
